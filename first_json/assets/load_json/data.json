@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rohit Kumar Saini",
+    "age": "20",
+    "height": "5.10",
+    "gender": "male",
+    "color": "normal"
+  },
+  {
+    "name": "Lalit Singh",
+    "age": "19",
+    "height": "5.7",
+    "gender": "male",
+    "color": "fair"
+  },
+  {
+    "name": "Akshay Kumar",
+    "age": "40",
+    "height": "6.2",
+    "gender": "male",
+    "color": "fair"
+  },
+  {
+    "name": "Dwyane Johnson",
+    "age": "45",
+    "height": "6.0",
+    "gender": "male",
+    "color": "normal"
+  }
+]

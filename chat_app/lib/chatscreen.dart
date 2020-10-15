@@ -31,6 +31,7 @@ class _ChatScreenState extends State<ChatScreen> {
                 child: TextField(
                   onSubmitted: _handeSubmission,
                   controller: _textController,
+                  style: TextStyle(fontSize: 20.0),
                   decoration:
                       InputDecoration.collapsed(hintText: "Send a message"),
                 ),
